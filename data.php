@@ -40,6 +40,6 @@ require 'connection.php';
       <?php endforeach; ?>
     </table>
     <br>
-    <a href="index.php">Upload Image File</a>
+    <button class="btn btn-primary my-4"><a href="index.php" class="text-light">Upload image file</button>
   </body>
 </html>
